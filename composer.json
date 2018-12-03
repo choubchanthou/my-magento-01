@@ -1,0 +1,21 @@
+{
+    "name": "chanthou/my-magento-01",
+    "description": "This library",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Choub Chanthou",
+            "email": "chanthou_choub@hotmail.com"
+        }
+    ],
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "Chanthou\\AIS\\": ""
+        }
+    },
+    "require": {}
+}
