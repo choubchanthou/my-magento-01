@@ -2,11 +2,17 @@
     "name": "chanthou/my-magento-01",
     "description": "This library",
     "type": "magento2-module",
-    "license": "MIT",
+    "license": "GPL-3.0",
     "authors": [
         {
             "name": "Choub Chanthou",
             "email": "chanthou_choub@hotmail.com"
+        }
+    ],
+    "repositories": [
+        {
+          "type": "git",
+          "url": "https://github.com/choubchanthou/MyMagento-01"
         }
     ],
     "autoload": {
