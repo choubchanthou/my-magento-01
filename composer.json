@@ -1,7 +1,7 @@
 {
     "name": "chanthou/my-magento-01",
     "description": "This library",
-    "type": "library",
+    "type": "magento2-module",
     "license": "MIT",
     "authors": [
         {
