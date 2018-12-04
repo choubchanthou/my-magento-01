@@ -1,29 +1,12 @@
 {
-    "name": "choubchanthou/my-magento-01",
-    "description": "This library",
-    "type": "magento2-module",
-    "license": "GPL-3.0",
+    "name": "chanthou/my-magento-01",
+    "license": "MIT",
     "authors": [
         {
             "name": "Choub Chanthou",
             "email": "chanthou_choub@hotmail.com"
         }
     ],
-    "repositories": [
-        {
-          "type": "git",
-          "url": "https://github.com/choubchanthou/MyMagento-01"
-        }
-    ],
-    "autoload": {
-        "files": [
-            "registration.php"
-        ],
-        "psr-4": {
-            "Chanthou\\AIS\\": ""
-        }
-    },
-    "require": {
-        "php": ">=5.3.0"
-    }
+    "minimum-stability": "dev",
+    "require": {}
 }
