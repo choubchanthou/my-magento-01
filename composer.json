@@ -1,5 +1,5 @@
 {
-    "name": "chanthou/my-magento-01",
+    "name": "chanthouchoub/my-magento-01-0008",
     "license": "MIT",
     "authors": [
         {
@@ -8,5 +8,7 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {}
+    "require": {
+        "chanthouchoub/my-magento-01-0008" : "dev-master"
+    }
 }
