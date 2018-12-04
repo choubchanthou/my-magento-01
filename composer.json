@@ -1,14 +1,7 @@
 {
-    "name": "chanthouchoub/my-magento-01-0008",
-    "license": "MIT",
-    "authors": [
-        {
-            "name": "Choub Chanthou",
-            "email": "chanthou_choub@hotmail.com"
-        }
-    ],
-    "minimum-stability": "dev",
+    "name": "chanthou-choub-name/my-package-name",
+    "description": "A short description of what your package does",
     "require": {
-        "chanthouchoub/my-magento-01-0008" : "dev-master"
+        "php": "^5.6.37 || ^7.0"
     }
 }
