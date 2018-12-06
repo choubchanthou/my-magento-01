@@ -7,6 +7,7 @@ echo "Hello world";
 [Click here](https://google.com.kh) to download the library.
 
 ### A typical top-level directory layout
+```
    .
     ├── build                   # Compiled files (alternatively `dist`)
     ├── docs                    # Documentation files (alternatively `doc`)
@@ -15,4 +16,5 @@ echo "Hello world";
     ├── tools                   # Tools and utilities
     ├── LICENSE
     └── README.md
+```    
 
