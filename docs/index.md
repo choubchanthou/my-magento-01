@@ -34,3 +34,8 @@ Choose Option:
 - [ ] Open a pull request
 - [ ] \(Optional) Open a followup issue
 
+| Name     | Character |
+| ---      | ---       |
+| Backtick | `         |
+| Pipe     | \|        |
+
