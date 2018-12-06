@@ -29,7 +29,7 @@ echo "Hello world";
 ```    
 
 Choose Option:
--[x] Option 1
--[] Option 2
--[] Option 3
+- [x] Finish my changes
+- [ ] Push my commits to GitHub
+- [ ] Open a pull request
 
